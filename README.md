@@ -1,6 +1,6 @@
 # Pea
 
-An extension for [ExpressionEngine](https://expressionengine.com/) CMS which compresses uploaded images into webP format.
+An extension for [ExpressionEngine](https://expressionengine.com/) CMS which compresses uploaded images into WebP format.
 
 [Pea in the ExpressionEngine Add-On Store](https://expressionengine.com/add-ons/pea)
 
